@@ -1,0 +1,1 @@
+var json_arrivee_depart_2 = {"type":"FeatureCollection","name":"arrivee_depart_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Arrivee_depart":"Départ et arrivée"},"geometry":{"type":"Point","coordinates":[4.543902,43.928121]}}]}
